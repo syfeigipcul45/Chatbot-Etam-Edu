@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.dist/
+build/
+*.log
+
+# Virtual envs
+venv/
+.venv/
+
+# OS/editor
+.DS_Store
+*.swp
+
+# Models / artifacts
+*.pt
+*.pth
+*.onnx
